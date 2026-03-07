@@ -1,4 +1,4 @@
-# *args     = allows you to pass multiple nen-key arguments (tuple)
+# *args     = allows you to pass multiple non-key arguments (tuple)
 # **kwargs  = allows you to pass multiple keyword arguments (dictionary)
 #              *unpacking operator
 #               1. positional, 2. default, 3. keyword, 4. ARBITRARY
